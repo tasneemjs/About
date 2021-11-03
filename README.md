@@ -34,9 +34,6 @@ I'm Tasneem Jannat, I am a creative front-end web developer with working experie
 ## Want to know more?
 
 [<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftasneemj.com-pink" />](https://tasneemj.com) 
-
 [<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://tasneemj.com/files/tasneem-jannat-resume.pdf)
- 
 [<img alt="email" src="https://img.shields.io/badge/Email%20me-iamtasneemj%40gmail.me-orange" />](mailto:iamtasneemj@gmail.com) 
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/tasneemjs?label=Follow%20Me&style=social" />
